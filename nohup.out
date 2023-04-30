@@ -22,3 +22,85 @@
 [21:42:23] [70.123.158.86][ee2154b9][ManagementConnection] New connection established.
 [21:42:25] [70.123.158.86][433b04fb][ExtensionHostConnection] New connection established.
 [21:42:25] [70.123.158.86][433b04fb][ExtensionHostConnection] <20271> Launched Extension Host Process.
+[21:47:19] Getting Manifest... ms-python.python
+[21:47:20] Installing extension: ms-python.python
+[21:47:20] Getting Manifest... ms-toolsai.jupyter
+[21:47:21] Getting Manifest... ms-toolsai.jupyter-renderers
+[21:47:21] Getting Manifest... ms-toolsai.jupyter-keymap
+[21:47:22] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+[21:47:22] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+[21:47:23] Installing extension: ms-toolsai.jupyter ms-python.python
+[21:47:23] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+[21:47:23] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+[21:47:23] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+[21:47:23] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+[21:47:24] Extension signature verification is not done: ms-toolsai.jupyter-keymap
+[21:47:24] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.23e3feee-e53f-4bd8-a452-ab936b52bfc1: ms-toolsai.jupyter-keymap
+[21:47:24] Renamed to /home/glizzy/.local/share/code-server/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+[21:47:24] Extracting extension completed. ms-toolsai.jupyter-keymap
+[21:47:24] Extension signature verification is not done: ms-toolsai.vscode-jupyter-slideshow
+[21:47:24] Extension signature verification is not done: ms-toolsai.vscode-jupyter-cell-tags
+[21:47:24] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.380374bb-67d3-4c43-b62d-96a188fcc8bd: ms-toolsai.vscode-jupyter-slideshow
+[21:47:24] Renamed to /home/glizzy/.local/share/code-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+[21:47:24] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+[21:47:24] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.bcda36ba-84e9-4342-9708-b7c59812c13e: ms-toolsai.vscode-jupyter-cell-tags
+[21:47:24] Renamed to /home/glizzy/.local/share/code-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8-universal
+[21:47:24] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+[21:47:25] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+[21:47:26] Extension signature verification is not done: ms-toolsai.jupyter
+[21:47:26] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.d702f986-76cb-4a0b-abf4-873b78b3f296: ms-toolsai.jupyter-renderers
+[21:47:26] Renamed to /home/glizzy/.local/share/code-server/extensions/ms-toolsai.jupyter-renderers-1.0.15-universal
+[21:47:26] Extracting extension completed. ms-toolsai.jupyter-renderers
+[21:47:27] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.ebaabc1f-08ef-43de-b1a0-d71b98fdaebb: ms-toolsai.jupyter
+[21:47:27] Renamed to /home/glizzy/.local/share/code-server/extensions/ms-toolsai.jupyter-2023.3.100-universal
+[21:47:27] Extracting extension completed. ms-toolsai.jupyter
+[21:47:29] Extension signature verification is not done: ms-python.python
+[21:47:33] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.92b4f25e-3d2b-4c40-b21d-4b7f722bc694: ms-python.python
+[21:47:33] Renamed to /home/glizzy/.local/share/code-server/extensions/ms-python.python-2023.6.1-universal
+[21:47:33] Extracting extension completed. ms-python.python
+[21:47:33] Extension installed successfully: ms-toolsai.jupyter-keymap
+[21:47:33] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+[21:47:33] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+[21:47:33] Extension installed successfully: ms-toolsai.jupyter-renderers
+[21:47:33] Extension installed successfully: ms-toolsai.jupyter
+[21:47:33] Extension installed successfully: ms-python.python
+[21:52:45] Getting Manifest... mikastiv.ocean-space-refined
+[21:52:45] Installing extension: mikastiv.ocean-space-refined
+[21:52:47] Extension signature verification is not done: mikastiv.ocean-space-refined
+[21:52:47] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.6e4da513-20f3-46ff-a40f-d628f69365ff: mikastiv.ocean-space-refined
+[21:52:47] Renamed to /home/glizzy/.local/share/code-server/extensions/mikastiv.ocean-space-refined-3.0.2-universal
+[21:52:47] Extracting extension completed. mikastiv.ocean-space-refined
+[21:52:47] Extension installed successfully: mikastiv.ocean-space-refined
+[21:56:32] Getting Manifest... beardedbear.beardedtheme
+[21:56:32] Installing extension: beardedbear.beardedtheme
+[21:56:34] Extension signature verification is not done: beardedbear.beardedtheme
+[21:56:34] Extracted extension to /home/glizzy/.local/share/code-server/extensions/.5eec4bd0-bea9-4a47-83e5-365106363f99: beardedbear.beardedtheme
+[21:56:34] Renamed to /home/glizzy/.local/share/code-server/extensions/beardedbear.beardedtheme-8.1.1-universal
+[21:56:34] Extracting extension completed. beardedbear.beardedtheme
+[21:56:34] Extension installed successfully: beardedbear.beardedtheme
+[22:24:30] [70.123.158.86][433b04fb][ExtensionHostConnection] The client has reconnected.
+[22:24:31] [70.123.158.86][ee2154b9][ManagementConnection] The client has reconnected.
+[22:32:22] [70.123.158.86][433b04fb][ExtensionHostConnection] The client has reconnected.
+[23:54:35] [70.123.158.86][433b04fb][ExtensionHostConnection] The client has reconnected.
+[23:54:35] [70.123.158.86][ee2154b9][ManagementConnection] The client has reconnected.
+[00:10:14] Error: read ETIMEDOUT
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20) {
+  errno: -110,
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+[00:10:14] [70.123.158.86][ee2154b9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[01:45:04] [70.123.158.86][ee2154b9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[01:45:04] [70.123.158.86][ee2154b9][ManagementConnection] The client has reconnected.
+[01:45:05] [70.123.158.86][433b04fb][ExtensionHostConnection] The client has reconnected.
+[01:45:07] [70.123.158.86][433b04fb][ExtensionHostConnection] The client has reconnected.
+[01:45:07] [70.123.158.86][ee2154b9][ManagementConnection] The client has reconnected.
+[02:00:50] Error: read ETIMEDOUT
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20) {
+  errno: -110,
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+[02:00:50] [70.123.158.86][ee2154b9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[02:30:15] [70.123.158.86][ee2154b9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[02:30:15] [70.123.158.86][433b04fb][ExtensionHostConnection] The client has reconnected.

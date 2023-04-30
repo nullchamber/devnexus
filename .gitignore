@@ -142,3 +142,10 @@ dmypy.json
 # profiling data
 .prof
 
+
+
+nohup.out
+
+
+domain.crt
+domain.key
