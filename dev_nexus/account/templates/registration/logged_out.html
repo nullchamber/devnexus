@@ -1,0 +1,20 @@
+{% extends "base.html" %} 
+{% block title %}Logged Out{% endblock %} 
+{% block content %} 
+<!-- Message to user -->
+<div class="row">
+    <div class="col s12 m8 offset-m2">
+        <div class="card-panel teal lighten-2">
+            <span class="white-text">
+                You have succesfully logged out.
+            </span>
+        </div>
+    </div>
+</div>
+<!-- Return to login-->
+<div class="row">
+    <div class="col s12 m8 offset-m2">
+        <a class="btn btn-large btn-wide" href="{% url 'login' %}">Return to login</a>
+    </div>
+</div>
+{% endblock %}
